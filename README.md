@@ -1,2 +1,2 @@
 # greyatomCode
-Daily codes 
+Day 1-7 codes
